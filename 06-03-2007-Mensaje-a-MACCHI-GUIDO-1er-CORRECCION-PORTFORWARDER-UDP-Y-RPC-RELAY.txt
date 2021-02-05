@@ -1,0 +1,18 @@
+Buenos días estimado profesor: GUIDO MACCHI
+
+Mi nombre es EZEQUIEL HERNÁN VILLANUEVA, de la ciudad de Casilda.
+
+Me tomo el atrevimiento de molestarle nuevamente debido a que encontré 
+un error en el código fuente del archivo: 
+	portforwarder-udp-select-fcntl-setsockopt.c
+que ayer le envié.
+
+Es por eso que le adjunto nuevamente, con la corrección hecha, ambas partes del TRABAJO FINAL de la 
+
+        MATERIA: SISTEMAS OPERATIVOS, 
+
+	de la CARRERA ANALISTA UNIVERSITARIO EN SISTEMAS 
+
+	que usted dictó durante el 2do CUATRIMESTRE DEL PASADO AÑO 2006.
+	
+Aprovecho para enviarles saludos, y nos vemos mañana...

@@ -1,0 +1,12 @@
+Hola estimado profesor: GUIDO MACCHI
+
+Le envio adjunto la PRIMERA PARTE del TRABAJO FINAL de la MATERIA SISTEMAS OPERATIVOS que cursamos durante el 2do CUATRIMESTRE del año 2006, con usted.
+
+La PRIMERA PARTE se trata de un PORTFORWARDER UDP. 
+Lo escribí de manera que respete la siguiente sintaxis:
+
+	./portforwarder.out   PUERTO_ENTRADA  PUERTO_SALIDA   IP_DESTINO
+
+Estoy trabajando ahora en la SEGUNDA PARTE, que se trata de UN RELAY (RETRANSMISOR) DE MENSAJES USANDO RPC, ni bién lo tenga listo se lo envío.
+
+Aprovecho para enviarle saludos, desde mi ciudad de Casilda.
