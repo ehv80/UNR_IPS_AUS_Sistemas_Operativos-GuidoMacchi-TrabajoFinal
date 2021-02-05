@@ -1,0 +1,36 @@
+Bundle::PlRPC (3pm)  - A bundle to install PlRPC-Server, Client and prerequisites.
+callrpc (3)          - library routines for remote procedure calls
+endrpcent (3)        - get RPC entry
+getrpcbyname (3)     - get RPC entry
+getrpcbynumber (3)   - get RPC entry
+getrpcent (3)        - get RPC entry
+getrpcport (3)       - get RPC port number
+grpck (8)            - verify integrity of group files
+grpconv (8)          - convert to and from shadow passwords and groups.
+key_decryptsession (3) - interfaces to rpc keyserver daemon
+key_encryptsession (3) - interfaces to rpc keyserver daemon
+key_gendes (3)       - interfaces to rpc keyserver daemon
+key_secretkey_is_set (3) - interfaces to rpc keyserver daemon
+key_setsecret (3)    - interfaces to rpc keyserver daemon
+pmap_dump (8)        - print a list of all registered RPC programs
+pmap_set (8)         - set the list of registered RPC programs
+portmap (8)          - DARPA port to RPC program number mapper
+registerrpc (3)      - library routines for remote procedure calls
+rpc (3)              - library routines for remote procedure calls
+rpc (3erl)           - Remote Procedure Call Services
+rpc (5)              - rpc program number data base
+rpc.lockd (8)        - start kernel lockd process
+rpc.mountd (8)       - NFS mount daemon
+rpc.nfsd (8)         - NFS server process
+rpc.rquotad (8)      - remote quota server
+rpc.statd (8)        - NSM status monitor
+rpc.yppasswdd (8)    - NIS password update daemon
+rpc.ypxfrd (8)       - NIS map transfer server
+RPC::PlClient (3pm)  - Perl extension for writing PlRPC clients
+RPC::PlServer (3pm)  - Perl extension for writing PlRPC servers
+rpcclient (1)        - tool for executing client side MS-RPC functions
+rpcgen (1)           - an RPC protocol compiler
+rpcinfo (8)          - report RPC information
+rpcli (1)            - A highway trip planner
+setrpcent (3)        - get RPC entry
+ypserv.conf (5)      - configuration file for ypserv and rpc.ypxfrd
