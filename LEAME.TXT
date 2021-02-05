@@ -1,0 +1,36 @@
+---------------------------------------------------------------------------
+PAR CLIENTE SERVIDOR RPC relay:
+---------------------------------------------------------------------------
+
+Para obtenerlo se han seguido los siguientes pasos:
+--------------------------------------------------
+- 1º Procesar la descripción de la interface del servicio RPC con:
+
+	rpcgen -N -a relay.x
+	
+- 2º Modificar los archivos necesarios.
+     Podrá ver en los comentarios mayores detalles.
+	
+- 3º Compilar el PROCESO SERVIDOR RPC mediante: 
+	
+	gcc -Wall relay_server.c relay_svc.c relay_xdr.c -o relay_server
+
+- 4º Compilar el PROCESO CLIENTE RPC mediante:
+
+	gcc -Wall relay_client.c relay_clnt.c relay_xdr.c -o relay_client
+
+---------------------------------------------------------------------------
+Para utilizarlo debe :
+-------------------
+
+- 1º Invocar al PROCESO SERVIDOR RPC mediante: 
+	
+	./relay_server
+
+- 2º Invocar al PROCESO CLIENTE ROC mediante:  
+	
+	./relay_client  RPC_SERVER_HOST  RPC_DESTINATION_HOST
+     
+     Se le indicará que ingrese el mensaje.
+
+---------------------------------------------------------------------------
