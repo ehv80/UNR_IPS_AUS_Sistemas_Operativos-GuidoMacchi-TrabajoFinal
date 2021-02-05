@@ -14,4 +14,3 @@ program RELAY{
 		cadena retira(cadena)=2;
 	}=1;
 }=0x20000009;
-/* Archivo: relay.x 						*/
